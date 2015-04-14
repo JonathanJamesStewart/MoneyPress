@@ -1,3 +1,10 @@
+15/04/13
+-Figure out how to set up a database on website or have one hosted.
+-Implement database for testing
+-Write use cases
+-Write steps for use cases
+-Write request parser w/json
+
 15/04/11
 -Figure out how to allow requests from web.
 -Write request parser w/json

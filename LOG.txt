@@ -1,2 +1,7 @@
+15/04/13
+-Got p2p connection working for testing.
+-Set up initial database query w/ python.
+-Database is mostly designed. Neet to implement.
+
 15/04/11
 -Set up database structure on old PC
